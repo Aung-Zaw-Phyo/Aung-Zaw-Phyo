@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XXvJA7YOLAWjub6q165OSG6E_F_UT307/view?usp=sharing](https://drive.google.com/file/d/1XXvJA7YOLAWjub6q165OSG6E_F_UT307/view?usp=sharing)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aung-zaw-phyo&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aung-zaw-phyo&show_icons=true&theme=onedark)
 
 
 <h3 align="left">Connect with me:</h3>

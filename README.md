@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aung Zaw Phyo</h1>
 <h3 align="center">Web developer</h3>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aung-zaw-phyo](https://github.com/aung-zaw-phyo)
 

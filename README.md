@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aungzawphyo1102@gmail.com**
 
-- 📄 Know about my experiences [https://aungzawphyo.vercel.app/](https://aungzawphyo.vercel.app/)
+- 📄 Know about my experiences [https://aungzawphyo.com/](https://aungzawphyo.com/)
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aung-zaw-phyo&show_icons=true&theme=tokyonight) -->

@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aung Zaw Phyo</h1>
 <h3 align="center">Web developer</h3>
 
-- 🌱 I’m currently learning **Flutter**, **NestJs** and building some projects
+- 🌱 I’m currently learning **NodeJs**, **NestJs** and building some projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/aung-zaw-phyo](https://github.com/aung-zaw-phyo)
 
-- 💬 Ask me about **php & laravel**
-
 - 📫 How to reach me **aungzawphyo1102@gmail.com**
 
-- 📄 Know about my experiences [https://aungzawphyo.com/](https://aungzawphyo.com/)
+- 📄 Know about my experiences [https://aungzawphyo.pages.dev/](https://aungzawphyo.pages.dev/)
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aung-zaw-phyo&show_icons=true&theme=tokyonight) -->
